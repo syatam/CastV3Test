@@ -2,7 +2,7 @@
 
 CastV3Test is a demo application which shows how to cast a single video from an android device and it does provide how does mini controller and expanded controllers work.
 
-This is developer based on Android Cast V3 SDK
+This app is developed based on Android Cast V3 SDK
 
 Setup Instructions:-
 
